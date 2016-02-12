@@ -9,3 +9,6 @@ help me contact them.
 # Docker
 The `Dockerfile` contains the dependencies needed as well as a
 jupyter notebook server.
+
+# Everware
+You can run this in [everware](http://everware.xyz) if you have an account for https://everware.rep.school.yandex.net.
